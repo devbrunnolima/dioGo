@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Bruno Silva",
+      "nivel_acesso": "admin",
+      "senha": "123456",
+      "foto": "uploads/bruno.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Mariana Santos",
+      "nivel_acesso": "editor",
+      "senha": "senhaMariana",
+      "foto": "uploads/mariana.png"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Oliveira",
+      "nivel_acesso": "viewer",
+      "senha": "car123",
+      "foto": "uploads/carlos.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Fernanda Costa",
+      "nivel_acesso": "editor",
+      "senha": "fernanda987",
+      "foto": "uploads/fernanda.jpeg"
+    },
+    {
+      "id": 5,
+      "nome": "Lucas Pereira",
+      "nivel_acesso": "admin",
+      "senha": "lucas_root",
+      "foto": "uploads/lucas.png"
+    }
+  ]
+}
